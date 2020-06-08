@@ -14,4 +14,4 @@ The original intel wifi card won't work. The DW1820A or DW1560 card will work, w
 
 Do notice that the trackpad may not work if macOS is installed on a NVMe SSD other than a SATA one, and I don't know why.
 
-Thanks to xzhih, the HIDPI function can be enabled via https://github.com/xzhih/one-key-hidpi.
+
