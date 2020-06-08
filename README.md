@@ -1,7 +1,7 @@
 # T480-Hackintosh-Clover-Bootloader
-Working well except camera.
 
-MacOS 10.15.5 workes well on Thinkpad T480 with 2K Screen, i7-8650U Processer and 16 GB RAM.
+
+MacOS 10.15.5 tested on Thinkpad T480 with 2K Screen, i7-8650U Processer and 16 GB RAM.
 
 All external ports, the keyboard, trackpad and screen work well.
 Hibernation function is also enabled, and works fine.
